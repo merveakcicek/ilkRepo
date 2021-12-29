@@ -2,6 +2,8 @@
 
 - Bu repo (Kodluyoruz) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![Resim] (https://r.resimlink.com/8p5a.jpg)
+
 ## Installation
 
 ---
